@@ -1,3 +1,5 @@
+![projectlogo](https://user-images.githubusercontent.com/42869122/168498329-d5c20521-62e6-46c9-8d12-e42eb4cbabad.png)
+
 # CantmeraOS
 
 The Can't-mera is a Raspberry Pi based camera in a 3D printed frame that intentionally lacks a viewfinder or preview screen in order to intervene in the photographic process. It exists also as a pedagogical device for new photographers to train the mind's eye and get over the fear of pressing the shutter button. The camera tweets photos to twitter, either at the end of a "roll" or, in the case of an art gallery exhibit, after each photograph.
